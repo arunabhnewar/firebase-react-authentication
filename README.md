@@ -1,3 +1,3 @@
-## firebase-react-authentication
+## Firebase-React-Authentication
 
-# responsive
+# Responsive Website
