@@ -1,3 +1,3 @@
 ## Firebase-React-Authentication
 
-# Full Responsive Website
+# Full Responsive
